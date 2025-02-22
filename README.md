@@ -54,7 +54,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 -**cmd> vagrant ssh**
 -**🔥 2. Tester Nginx**
 -**Ouvrez un navigateur et entrez** 
--**http://localhost:8089** n'oublions pas le nom de notre port 
+-**http://localhost:9190** n'oublions pas le nom de notre port 
 -**🗄 3. Accéder à MySQL**
 -**mysql -u root -p -h 127.0.0.1 -P 3306**
 
