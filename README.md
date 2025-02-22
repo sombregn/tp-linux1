@@ -30,7 +30,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - **Par exemple: mkdir vagrant-linux**
 -**cd nom creer**
 - **Par exemple: cd vagrant-linux**
-- 
+ 
  ### 2. Setup du VagrantFile 
  Ajouter le fichier Vagrantfile
 - **cmd> vagrant init**
@@ -50,7 +50,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 -**Configure MySQL pour accepter des connexions depuis l’extérieur**
 
 ### 🎯 Vérifications après l’installation
--**🔗 1. Se connecter à la VM via SSH**
+**-🔗 1. Se connecter à la VM via SSH**
 -**cmd> vagrant ssh**
 -**🔥 2. Tester Nginx**
 -**Ouvrez un navigateur et entrez** 
