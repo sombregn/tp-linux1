@@ -42,7 +42,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 ### 4. Démarrage du Vagrant File:
 -**cmd> vagrant up**
 
-###📌 Ce que fait cette commande :
+### 📌 Ce que fait cette commande :
 - **Télécharge l’image Ubuntu 20.04 si elle n’existe pas encore.**
 -**Crée et configure la VM.**
 -**Installe Nginx et MySQL automatiquement.**
@@ -58,13 +58,13 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 -**🗄 3. Accéder à MySQL**
 -**mysql -u root -p -h 127.0.0.1 -P 3306**
 
-###📌 Conclusion**
+### 📌 Conclusion**
 -**✅ Nous avez maintenant une machine virtuelle sous Ubuntu 20.04 avec Nginx et MySQL configurés**
 -**✅ Notre application Angular est servie via Nginx**
 -**✅ MySQL est accessible depuis l’extérieur sur le port 3306**
 -**✅ Vous pouvez gérer votre serveur avec Vagrant facilement**
 -**📝 Remarque**
--**voir toutes captures dans le dossier captures**
+-**Voir toutes captures dans le dossier captures**
 
 ![Capture d'écran 2025-02-20 234638](https://github.com/user-attachments/assets/bd5be247-a8e6-4dc5-95df-076be37b3c47)
 ![listofDB](https://github.com/user-attachments/assets/c212cfb9-2820-408c-866e-969fc8c17c2f)
