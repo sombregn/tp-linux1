@@ -43,7 +43,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 -**cmd> vagrant up**
 
 ### 📌 Ce que fait cette commande :
-- **Télécharge l’image Ubuntu 20.04 si elle n’existe pas encore.**
+- **Télécharge l’image Ubuntu 20.04 ou selon la version précisé si elle n’existe pas encore.**
 -**Crée et configure la VM.**
 -**Installe Nginx et MySQL automatiquement.**
 -**Configure Nginx pour servir notre application Angular.**
