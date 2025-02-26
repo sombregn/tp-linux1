@@ -49,18 +49,18 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 ### 🎯 Vérifications après l’installation
 **-🔗 1. Se connecter à la VM via SSH**
--**cmd> vagrant ssh web & db**
--**🔥 2. Tester le tomcat**
--**Ouvrez un navigateur et entrez** 
--**http://localhost:...** 
--**N'oublions pas le nom de notre port** 
--**🗄 3. Accéder à MySQL**
--**mysql -u root -p -h 127.0.0.1 -P 3306**
+- **cmd> vagrant ssh web & db**
+- **🔥 2. Tester le tomcat**
+- **Ouvrez un navigateur et entrez** 
+- **http://localhost:...** 
+- **N'oublions pas le nom de notre port** 
+- **🗄 3. Accéder à MySQL**
+- **mysql -u root -p -h 127.0.0.1 -P 3306**
 Pour voir les tables et les insertions.
 
 ### 📌 Conclusion**
--**✅ Nous avez maintenant des machines virtuelles sous Ubuntu 20.04 avec Tomcat , MySQL, Maven, Java configurés**
--**📝 Remarque**
--**Voir toutes captures dans le dossier captures**
+- **✅ Nous avez maintenant des machines virtuelles sous Ubuntu 20.04 avec Tomcat , MySQL, Maven, Java configurés**
+- **📝 Remarque**
+- **Voir toutes captures dans le dossier captures**
 ![Capture d’écran 2025-02-25 100418](https://github.com/user-attachments/assets/dc826652-8bd3-49f1-be8b-e4a026a62287)
 ![image-02 2025-02-18 161856](https://github.com/user-attachments/assets/7c839aef-5af1-440f-8d8f-4b4ca751b8af)
