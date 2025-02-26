@@ -62,7 +62,8 @@ Pour voir les tables et les insertions.
 - **✅ Nous avez maintenant des machines virtuelles sous Ubuntu 20.04 avec Tomcat , MySQL, Maven, Java configurés**
 - **📝 Remarque**
 - **Voir toutes captures dans le dossier captures**
-![Capture d’écran 2025-02-25 100418](https://github.com/user-attachments/assets/dc826652-8bd3-49f1-be8b-e4a026a62287)
-![image-02 2025-02-18 161856](https://github.com/user-attachments/assets/7c839aef-5af1-440f-8d8f-4b4ca751b8af)
-![image-01 2025-02-18 124511](https://github.com/user-attachments/assets/38d189ed-e487-4a71-bc2d-226112020c92)
-![Capture d’écran 2025-02-25 104423](https://github.com/user-attachments/assets/b6259327-2686-4c14-bcff-0bbd37771884)
+![Capture d'écran 2025-02-20 234638](https://github.com/user-attachments/assets/bd5be247-a8e6-4dc5-95df-076be37b3c47)
+![listofDB](https://github.com/user-attachments/assets/c212cfb9-2820-408c-866e-969fc8c17c2f)
+![IHM2](https://github.com/user-attachments/assets/65c47be6-7000-484b-ad8d-a6d0ce26892e)
+![IHM](https://github.com/user-attachments/assets/c450aa7e-f2b4-4629-8559-783d25e8c97a)
+![Capture d'écran 2025-02-20 234946](https://github.com/user-attachments/assets/7b3c8848-ab14-4058-a08d-3e35c1222e13)
