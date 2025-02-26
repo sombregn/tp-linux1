@@ -52,7 +52,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 -**cmd> vagrant ssh web & db**
 -**🔥 2. Tester le tomcat**
 -**Ouvrez un navigateur et entrez** 
--**http://localhost:...** n'oublions pas le nom de notre port 
+-**http://localhost:...** 
+-**N'oublions pas le nom de notre port** 
 -**🗄 3. Accéder à MySQL**
 -**mysql -u root -p -h 127.0.0.1 -P 3306**
 Pour voir les tables et les insertions.
