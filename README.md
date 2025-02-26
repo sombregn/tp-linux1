@@ -64,3 +64,5 @@ Pour voir les tables et les insertions.
 - **Voir toutes captures dans le dossier captures**
 ![Capture d’écran 2025-02-25 100418](https://github.com/user-attachments/assets/dc826652-8bd3-49f1-be8b-e4a026a62287)
 ![image-02 2025-02-18 161856](https://github.com/user-attachments/assets/7c839aef-5af1-440f-8d8f-4b4ca751b8af)
+![image-01 2025-02-18 124511](https://github.com/user-attachments/assets/38d189ed-e487-4a71-bc2d-226112020c92)
+![Capture d’écran 2025-02-25 104423](https://github.com/user-attachments/assets/b6259327-2686-4c14-bcff-0bbd37771884)
