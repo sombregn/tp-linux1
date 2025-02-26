@@ -45,31 +45,21 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 ### 📌 Ce que fait cette commande :
 - **Télécharge l’image Ubuntu 20.04 ou selon la version précisé si elle n’existe pas encore.**
--**Crée et configure la VM.**
--**Installe Nginx et MySQL automatiquement.**
--**Configure Nginx pour servir notre application Angular.**
--**Configure MySQL pour accepter des connexions depuis l’extérieur**
+-**Crées et configures les VMs.**
 
 ### 🎯 Vérifications après l’installation
 **-🔗 1. Se connecter à la VM via SSH**
--**cmd> vagrant ssh**
--**🔥 2. Tester Nginx**
+-**cmd> vagrant ssh web & db**
+-**🔥 2. Tester le tomcat**
 -**Ouvrez un navigateur et entrez** 
--**http://localhost:9190** n'oublions pas le nom de notre port 
+-**http://localhost:...** n'oublions pas le nom de notre port 
 -**🗄 3. Accéder à MySQL**
 -**mysql -u root -p -h 127.0.0.1 -P 3306**
+Pour voir les tables et les insertions.
 
 ### 📌 Conclusion**
--**✅ Nous avez maintenant une machine virtuelle sous Ubuntu 20.04 avec Nginx et MySQL configurés**
--**✅ Notre application Angular est servie via Nginx**
--**✅ MySQL est accessible depuis l’extérieur sur le port 3306**
--**✅ Vous pouvez gérer votre serveur avec Vagrant facilement**
+-**✅ Nous avez maintenant des machines virtuelles sous Ubuntu 20.04 avec Tomcat , MySQL, Maven, Java configurés**
 -**📝 Remarque**
 -**Voir toutes captures dans le dossier captures**
-
-![Capture d'écran 2025-02-20 234638](https://github.com/user-attachments/assets/bd5be247-a8e6-4dc5-95df-076be37b3c47)
-![listofDB](https://github.com/user-attachments/assets/c212cfb9-2820-408c-866e-969fc8c17c2f)
-![IHM2](https://github.com/user-attachments/assets/65c47be6-7000-484b-ad8d-a6d0ce26892e)
-![IHM](https://github.com/user-attachments/assets/c450aa7e-f2b4-4629-8559-783d25e8c97a)
-![Capture d'écran 2025-02-20 234946](https://github.com/user-attachments/assets/7b3c8848-ab14-4058-a08d-3e35c1222e13)
-
+![Capture d’écran 2025-02-25 100418](https://github.com/user-attachments/assets/dc826652-8bd3-49f1-be8b-e4a026a62287)
+![image-02 2025-02-18 161856](https://github.com/user-attachments/assets/7c839aef-5af1-440f-8d8f-4b4ca751b8af)
