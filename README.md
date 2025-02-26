@@ -29,7 +29,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 ### 1. Créer un dossier de travail
 - **mkdir le nom que vous  voulez**
 - **Par exemple: mkdir vagrant-linux**
--**cd nom creer**
+- **cd nom creer**
 - **Par exemple: cd vagrant-linux**
  
  ### 2. Setup du VagrantFile 
@@ -38,14 +38,14 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - **Un file vagrant vous sera initialisé automatiquement dans ce file vous travailler.**
 
 ### 3. Validation du Vagrant file
--**cmd> vagrant validate**
+- **cmd> vagrant validate**
 
 ### 4. Démarrage du Vagrant File:
--**cmd> vagrant up**
+- **cmd> vagrant up**
 
 ### 📌 Ce que fait cette commande :
 - **Télécharge l’image Ubuntu 20.04 ou selon la version précisé si elle n’existe pas encore.**
--**Crées et configures les VMs.**
+- **Crées et configures les VMs.**
 
 ### 🎯 Vérifications après l’installation
 **-🔗 1. Se connecter à la VM via SSH**
